@@ -73,9 +73,7 @@ I also have a Diploma in Graphic Design from The London College UCK, achieving M
 | 3 | __RR__ ![device display1](https://github.com/jamie2210/jamie2210/assets/116884495/cb266c35-5063-405d-8f09-2c93ec4d9878) | <a href="https://github.com/jamie2210/CI_MS3_RR" target="_blank">__Rave Reviews__</a>: A website for like minded Drum and Bass enthusiasts to share, review and chat about their favourite raves and sets. Created with HTML, CSS, JavaScript, Python & Flask. This site uses non-relational DB (mongoDB) and utilises Amazon AWS S3. | Awaiting Results |
 | 4 | __PP__ ![device display](https://github.com/jamie2210/jamie2210/assets/116884495/38f8d564-998b-498f-8279-908b7205245c) | <a href="https://github.com/jamie2210/CI_MS4_PP" target="_blank">__Poster Prints__</a>: A website for a print company offering various categories of images and different types of prints and posters. A full-stack e-commerce site built with Django and Stripe payments. This site utilises HTML, CSS, JavaScript & Python. It uses a relational DB (elephantSQL) and Amazon AWS S3. | Awaiting Results |
 <br>
-<div align=center>
-<img src="https://github.com/jamie2210/jamie2210/assets/116884495/01e9ac1c-57a3-4c19-bc3e-0e639b22c354" alt="dog" width=175px />
-</div>
+
 
 
 
