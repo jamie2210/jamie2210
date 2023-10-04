@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 
-I have recently completed my Level 5 Diploma in Full Stack Development with WAES from the Code Institute. I am awaiting my results.
+I have recently completed my Level 5 Diploma in Full Stack Development with the Code Institute, achieving Distinction.
 
 I also have a Diploma in Graphic Design from The London College UCK, achieving Merit.
 
