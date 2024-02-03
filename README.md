@@ -3,7 +3,8 @@
 
 ## 👨‍💻 About me
 
-I have recently completed my Level 5 Diploma in Full Stack Development with the Code Institute, achieving Distinction.
+
+I hold a Level 5 Diploma in Full Stack Development with the Code Institute, achieving Distinction.
 
 I also have a Diploma in Graphic Design from The London College UCK, achieving Merit.
 
@@ -63,7 +64,7 @@ I also have a Diploma in Graphic Design from The London College UCK, achieving M
 <br>
 <br>
 
-## 🪨 Milestone Projects for Code Institute Diploma
+## 🪨 Milestone Projects for Diploma - Distinction
 <br>
 
 | Milestone No. | Project | Description | Grade | 
@@ -74,6 +75,12 @@ I also have a Diploma in Graphic Design from The London College UCK, achieving M
 | 4 | __PP__ ![device display](https://github.com/jamie2210/jamie2210/assets/116884495/38f8d564-998b-498f-8279-908b7205245c) | <a href="https://github.com/jamie2210/CI_MS4_PP" target="_blank">__Poster Prints__</a>: A website for a print company offering various categories of images and different types of prints and posters. A full-stack e-commerce site built with Django and Stripe payments. This site utilises HTML, CSS, JavaScript & Python. It uses a relational DB (elephantSQL) and Amazon AWS S3. | Distinction |
 <br>
 
+## 🚀 Personal Projects & Other Work
+<br>
 
+| No. | Project | Link | Description |
+| :-----------: | :-----------: |:-----------: |:-----------: |
+| 1 | Rylato Re-design Techincal Challenge | __Ryalto Re-Design__ ![devices-display](https://github.com/jamie2210/jamie2210/assets/116884495/a24af861-1572-4df1-99c2-6c4ccf5aa218) | <a href="https://jamie2210.github.io/ryalto-technical-challenge/index.html" target="_blank">__Ryalto Re-Design__</a>: A static blog page which focus is responsiveness, branding and focus on clean code and an easy to navigate, eye-catching design. |
+| 2 | JavaScript Game Site (personal project) | __JavaScript Games__ ![device display](https://github.com/jamie2210/jamie2210/assets/116884495/dfb3b551-3bab-4283-80e6-8e151f6071a4) | <a href="https://github.com/jamie2210/javascript-games" target="_blank">__JavaScript Games__</a>: A personal game website built to further my knowledge of HTML, CSS & JavaScript.|
 
 
