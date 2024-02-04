@@ -80,7 +80,7 @@ I also have a Diploma in Graphic Design from The London College UCK, achieving M
 
 | No. | Project | Link | Description |
 | :-----------: | :-----------: |:-----------: |:-----------: |
-| 1 | Rylato Re-design Techincal Challenge | __Ryalto Re-Design__ ![device-display](https://github.com/jamie2210/jamie2210/assets/116884495/5ff9c368-cda3-4e74-a634-063183a8e70c)| <a href="https://jamie2210.github.io/ryalto-technical-challenge/index.html" target="_blank">__Ryalto Re-Design__</a>: A static blog page which focus is responsiveness, branding, clean code and an easy to navigate, eye-catching design. |
+| 1 | Rylato Re-design Techincal Challenge | __Ryalto Re-Design__ ![device-display](https://github.com/jamie2210/jamie2210/assets/116884495/5ff9c368-cda3-4e74-a634-063183a8e70c)| <a href="https://github.com/jamie2210/ryalto-technical-challenge" target="_blank">__Ryalto Re-Design__</a>: A static blog page which focus is responsiveness, branding, clean code and an easy to navigate, eye-catching design.|
 | 2 | JavaScript Game Site (personal project) | __JavaScript Games__ ![device-display](https://github.com/jamie2210/jamie2210/assets/116884495/4d22890e-86e7-411c-b2eb-01ec1512b09f)| <a href="https://github.com/jamie2210/javascript-games" target="_blank">__JavaScript Games__</a>: A personal game website built to further my knowledge of HTML, CSS & JavaScript.|
 
 
