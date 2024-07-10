@@ -3,6 +3,7 @@
 
 ## 👨‍💻 About me
 
+I am a software developer at Mercator Digital
 
 I hold a Level 5 Diploma in Full Stack Development with the Code Institute, achieving Distinction.
 
