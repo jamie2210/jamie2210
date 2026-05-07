@@ -5,10 +5,6 @@
 
 I am a software developer at Mercator Digital
 
-I hold a Level 5 Diploma in Full Stack Development with the Code Institute, achieving Distinction.
-
-I also have a Diploma in Graphic Design from The London College UCK, achieving Merit.
-
 <a target="_blank" href="https://www.linkedin.com/in/jamie2210/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 <br>
 <br>
